@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Jack new 2nd commit!");
+            Console.WriteLine("Hello World Jack new 3rd commit!");
         }
     }
 }
