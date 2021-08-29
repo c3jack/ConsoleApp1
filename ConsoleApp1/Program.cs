@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Jack new 6th commit! - 1st feature + 2nd feature + 3rd feature with 1 behind remote branch");
+            Console.WriteLine("Hello World Jack new th commit! -  with 2 differences in remote site");
 
         }
     }
